@@ -8,6 +8,7 @@ Demonstration:  Encrypting and Decrypting Grade Reports Lab
 
 
 PROBLEMAS
+Adjunto mail evidencia de realización de la práctica salvo por un paso por un error indeterminado del equipo.
 Al ejecutar pide el path donde están los ficheros encriptados, al pulsar "print" no hace nada mostrando la ejecución los siguientes mensajes:
 
 School.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
